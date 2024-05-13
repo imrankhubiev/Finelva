@@ -1,9 +1,3 @@
-/*
-* Template Name: Landing
-* Template Author: Untree.co
-* Author URI: https://untree.co/
-* License: https://creativecommons.org/licenses/by/3.0/
-*/
 body {
   font-family: "Work Sans", sans-serif;
   line-height: 1.6;
@@ -651,17 +645,6 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     position: absolute;
     width: 100%;
     height: 200%; }
-    .untree_co-hero .dots:before {
-      z-index: -1;
-      right: 0;
-      -webkit-transform: translateX(60%);
-      -ms-transform: translateX(60%);
-      transform: translateX(60%);
-      position: absolute;
-      content: "";
-      width: 304px;
-      height: 264px;
-      background: url("../images/dots.png") right top; }
   .untree_co-hero .intro {
     position: relative;
     z-index: 2; }
